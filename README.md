@@ -6,3 +6,4 @@
 [MainActivity.java](https://github.com/LaZoark/EnergyCalculator/blob/master/app/src/main/java/com/example/energycalculator/MainActivity.java)  
 
 
+![sample](https://user-images.githubusercontent.com/25290627/111915334-a7431280-8ab0-11eb-9b88-bafc7f1e1731.png)
