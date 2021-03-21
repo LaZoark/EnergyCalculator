@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EnergyCalculator</string>
+    <string name="消耗能量">消耗能量(仟卡/公斤/小時)：</string>
+
+</resources>
